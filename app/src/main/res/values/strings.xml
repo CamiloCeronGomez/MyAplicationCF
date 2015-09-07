@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Aplication CF</string>
+
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Primer">Primer Mundo</string>
+    <string name="Segundo">Segundo Mundo</string>
+    <string name="Tercer">Tercer Mundo</string>
+    <string name="txt_btn1">CAMBIAR DATOS</string>
+    <string name="txt_edittext1">Ingresar Dato 1</string>
+    <string name="txt_edittext2">Ingresar Dato 2</string>
+    <string name="PrimerCambio">Primer Mundo Cambio</string>
+    <string name="SegundoCambio">Segundo Mundo Cambio</string>
+    <string name="TercerCambio">Tercer Mundo Cambio</string>
+    <string name="txt_edittext3">Ingresar Dato 3</string>
+    <string name="txt_btn2">Cambio 2</string>
+    <string name="txt_btn3">Nueva Pantalla</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="cuarto">MI VIDA HERMOSA</string>
+</resources>
